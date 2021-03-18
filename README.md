@@ -1,5 +1,5 @@
-<p align="center">**Hi I'm Ugurcan** 👋</p>
-<p align="center">Junior Data Scientist</p>
+###Hi I'm Ugurcan 👋
+### Junior Data Scientist
 
 
 - 🔭 I’m currently working on Data Science
