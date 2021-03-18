@@ -1,6 +1,6 @@
 
 ## Hi I'm Ugurcan 👋
-#### Junior Data Scientist
+### Junior Data Scientist
 
 
 - 🔭 I’m currently working on Data Science
