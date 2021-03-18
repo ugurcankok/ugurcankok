@@ -1,6 +1,6 @@
-### Hi I'm Ugurcan 👋
+<p align="center">Hi I'm Ugurcan 👋</p>
+<p align="center">Junior Data Scientist</p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Natural Language Processing
