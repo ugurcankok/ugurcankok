@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me about Machine Learning, Deep Learning and Math 
 - 📫 How to reach me: ugurcankok0@gmail.com
-- :globe_with_meridians: [My Website](https://www.ugurcankok.me) and :computer: [Linkedin](https://www.linkedin.com/in/ugur-can-kok/)
+- :globe_with_meridians: [My Website](https://www.ugurcankok.me) :computer: [Linkedin](https://www.linkedin.com/in/ugur-can-kok/) and :black_nib: [Medium](https://medium.com/@ugurcankok0)
