@@ -1,5 +1,5 @@
 
-## Hi I'm Ugurcan 👋
+## Hi 👋 I'm Ugurcan 👨🏽‍💻
 ### Junior Data Scientist
 
 
