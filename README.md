@@ -1,9 +1,9 @@
 
 ## Hi 👋   I'm Ugurcan 👨🏽‍💻
-### Junior Data Scientist
+### Full Stack Develepor at KolayBi'
 
 
-- 🔭 I’m currently working at KolayBi' as Full Stack Developer
+- 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me about Machine Learning, Deep Learning and Math 
 - 📫 You can reach me with : ugurcankok0@gmail.com
