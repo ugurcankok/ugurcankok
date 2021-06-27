@@ -10,7 +10,7 @@ My love of mathematics drove me towards computer engineering. I met data science
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me about Machine Learning, Deep Learning and Math 
 - 📫 You can reach me with : ugurcankok0@gmail.com
-- :globe_with_meridians: If you want to learn more about me visit [my portfolio](https://www.ugurcankok.me)
+- :globe_with_meridians: If you want to learn more about me, visit [my portfolio](https://www.ugurcankok.me)
 - :page_facing_up: You can get my [CV](https://drive.google.com/file/d/1C2N4gkRGhTeehAxRI12UEGWvsWvW92CW/view?usp=sharing)
   
   
