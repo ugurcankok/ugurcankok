@@ -1,7 +1,7 @@
 # Hi there, I'm Uğur Can Kök 👋
 ### Senior Developer | Data Platforms & ML Systems
 
-I am a Senior Engineer with over 6 years of experience, specializing in building high-scale data platforms, distributed processing systems, and production-grade MLOps pipelines. I thrive at the intersection of Data Engineering and DevOps, focusing on scalability, cost-efficiency, and system reliability.
+I am a Senior Engineer, specializing in building high-scale data platforms, distributed processing systems, and production-grade MLOps pipelines. I thrive at the intersection of Data Engineering and DevOps, focusing on scalability, cost-efficiency, and system reliability.
 
 ---
 
@@ -13,6 +13,7 @@ I am a Senior Engineer with over 6 years of experience, specializing in building
 - **MLOps:** MLflow, FastAPI, Scikit-learn, PyTorch
 - **DevOps:** Docker, Jenkins, Prometheus, Grafana, Git
 - **Databases:** PostgreSQL, Cassandra, Redis
+- **Data Visualization:** Apache Superset
 
 ---
 
